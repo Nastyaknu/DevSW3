@@ -1,0 +1,5 @@
+print(hello)
+print(hi)
+print(something)
+c=2+7
+print(c)

@@ -8,3 +8,6 @@ def vivaMechMat():
 for _ in range(10):
     printHelloWorld()
 vivaMechMat()
+print(5+8)
+print(something)
+#якась там програма
